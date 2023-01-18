@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsahush&theme=dracula&custom_title=Harshit's GitHub Stats&username=ha" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ha" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitsahush&theme=dracula" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="left">Get in touch::</h3>
+<h3 align="left">Get in touch:</h3>
 
 ###
 
