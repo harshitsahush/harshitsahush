@@ -9,6 +9,10 @@
 
 ###
 
+<h3 align="left">Techs I've worked with so far:</h3>
+
+###
+
 <img align="right" height="216" src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif"  />
 
 ###
