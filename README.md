@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsahush&theme=dracula&custom_title=Harshit's GitHub Stats&username=ha" height="250" alt="stats graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitsahush&theme=dracula" height="250" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshitsahush&theme=dracula&custom_title=Harshit's GitHub Stats&username=ha" height="200" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshitsahush&theme=dracula" height="200" alt="languages graph"  />
 </div>
 
 ###
