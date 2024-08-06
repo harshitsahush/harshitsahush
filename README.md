@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Harshit</h1>
-<h3 align="center">A full-stack web-dev from India</h3>
+<h3 align="center">A Machine Learning Engineer from India</h3>
 
 - Contact me: **harshitsahu.sh@gmail.com**
 
